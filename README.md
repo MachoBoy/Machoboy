@@ -20,4 +20,4 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
 </p>
 
-<h3>Please visit <a href="https://bio-machoboy.vercel.app" target="_blank">my site</a> for more detail</h3>
+<h3>Please visit <a href="https://bio-machoboy.vercel.app" target="_blank">portfolio</a> for more detail</h3>
